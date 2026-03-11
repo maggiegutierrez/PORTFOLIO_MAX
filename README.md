@@ -8,7 +8,7 @@ This project presents an interactive and artistic website to show a rich portfol
 
 ## Live Demo
 
-🌐 **[View Live Project](https://maggiegutierrez.github.io/web_project_around_es/)**
+🌐 **[View Live Project](https://maggiegutierrez.github.io/PORTFOLIO_MAX/)**
 
 ## Features
 
@@ -52,7 +52,7 @@ Include user-generated c
 
 Clone the repository:
 bash
-git clone https://github.com/maggiegutierrez/web_project_around_es.git
+git clone https://github.com/maggiegutierrez/PORTFOLIO_MAX.git
 Navigate to the project directory:
 bash
 cd web_project_around_es
